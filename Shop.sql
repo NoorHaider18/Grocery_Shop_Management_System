@@ -1,3 +1,11 @@
+/**
+ * A PHP program from Grocery Shop Management System Project.
+ *
+ * @author Noor Haider Khan
+ * @version 1.0
+ * @since 2025-02-04
+ */
+
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
